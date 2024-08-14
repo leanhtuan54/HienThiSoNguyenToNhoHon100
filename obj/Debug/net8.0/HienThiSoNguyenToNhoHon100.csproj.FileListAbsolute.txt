@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiSoNguyenToNhoHon100.exe
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiSoNguyenToNhoHon100.deps.json
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiSoNguyenToNhoHon100.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiSoNguyenToNhoHon100.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\bin\Debug\net8.0\HienThiSoNguyenToNhoHon100.pdb
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\refint\HienThiSoNguyenToNhoHon100.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.pdb
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\HienThiSoNguyenToNhoHon100.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\HienThiSoNguyenToNhoHon100\obj\Debug\net8.0\ref\HienThiSoNguyenToNhoHon100.dll
